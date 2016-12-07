@@ -1,0 +1,22 @@
+{
+  "name": "refreshPull",
+  "version": "0.1.0",
+  "summary": "A short description of refreshPull.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/refreshPull",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhugongyuan": "1172807717@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/refreshPull.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "refreshPull/Classes/**/*"
+}

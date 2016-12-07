@@ -1,0 +1,16 @@
+PODS:
+  - refreshPull (0.1.0)
+
+DEPENDENCIES:
+  - refreshPull (from `../`)
+
+EXTERNAL SOURCES:
+  refreshPull:
+    :path: ../
+
+SPEC CHECKSUMS:
+  refreshPull: bfdd8b1bf3456645c9a6728898f358feba716a2d
+
+PODFILE CHECKSUM: f58df3b753afeabf48e55e7e9340a893696b6fa0
+
+COCOAPODS: 1.2.0.beta.1

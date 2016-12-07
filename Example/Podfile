@@ -1,0 +1,6 @@
+use_frameworks!
+target 'refreshPull_Tests' do
+  pod 'refreshPull', :path => '../'
+  
+  
+end
