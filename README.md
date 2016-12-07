@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # refreshPull
 
 [![CI Status](http://img.shields.io/travis/zhugongyuan/refreshPull.svg?style=flat)](https://travis-ci.org/zhugongyuan/refreshPull)
@@ -27,3 +28,7 @@ zhugongyuan, 1172807717@qq.com
 ## License
 
 refreshPull is available under the MIT license. See the LICENSE file for more info.
+=======
+# privateSpec
+create a private spec
+>>>>>>> 1542bd576b37601cbe7a6c566ecf33008312cd43
